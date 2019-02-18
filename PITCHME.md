@@ -485,6 +485,28 @@
 #### Day 1074
 @snapend
 
+---?color=#E58537
+
+@snap[north-west h4-white span-100]
+#### Tweet Embeds @fa[twitter]
+@snapend
+
+@snap[west h3-white span-50]
+### @fa[calendar] Feb 18, 2019
+@snapend
+
+@snap[east span-50]
+@tweet[https://twitter.com/gitpitch/status/1097321585885642752]
+@snapend
+
+@snap[south-west h4-white span-100]
+#### Day 1081
+@snapend
+
+@snap[south-west h4-white span-50 bg-gold fragment]
+#### This slide is meta @emoji[stuck_out_tongue_winking_eye]
+@snapend
+
 ---?image=assets/img/presenter.jpg&size=cover&opacity=35
 @title[My Thanks]
 
